@@ -24,7 +24,6 @@ Model checkpoints and training summaries are saved in tensorboard. To monitor tr
 
 
 ### Citation
-If you find this project useful, we would be grateful if you cite the TensorLayer paper：
 
 ```
 @article{tensorlayer2017,
