@@ -1,5 +1,8 @@
 # SRGAN
 
+![GitHub Workflow Status](https://img.shields.io/github/workflow/status/prakashsellathurai/SRGAN/Python%20plication?style=plastic)
+
+
 # Try the Pre-trained Model
 A pretrained generator model on the DIV2k dataset is provided in the 'models' directory. It uses 6 inverted residual blocks, with 32 filters in every layer of the generator. 
 
