@@ -28,6 +28,16 @@ Model checkpoints and training summaries are saved in tensorboard. To monitor tr
 ### Citation
 
 ```
+@misc{
+ledig2016photorealistic,
+    title={Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network},
+    author={Christian Ledig and Lucas Theis and Ferenc Huszar and Jose Caballero and Andrew Cunningham and Alejandro Acosta and Andrew Aitken and Alykhan Tejani and Johannes Totz and Zehan Wang and Wenzhe Shi},
+    year={2016},
+    eprint={1609.04802},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
+
 @article{tensorlayer2017,
 author = {Dong, Hao and Supratak, Akara and Mai, Luo and Liu, Fangde and Oehmichen, Axel and Yu, Simiao and Guo, Yike},
 journal = {ACM Multimedia},
